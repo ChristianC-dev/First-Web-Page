@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Pages\Contact\" />
+    <Folder Include="Pages\Donate\" />
+    <Folder Include="Pages\News\" />
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>
